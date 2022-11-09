@@ -1,0 +1,282 @@
+.content-area{
+  background-color: #EEE9D5;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&family=Baloo+2&display=swap');
+ .img-perfil{
+  border-radius: 0!important;
+  height: 250px;
+  width: 200px;
+
+}
+
+#title{
+  background-color: lightslategray;
+  color: white;
+  width: auto;
+  height: auto;
+  margin-left: 1%;
+  margin-bottom: 10px;
+}
+
+#title h1{
+  font-size: 38px;
+  font-family: 'Asap', sans-serif;
+}
+#nombre-modal{
+  font-size: 20px;
+  font-family: Asap,sans-serif;
+}
+#titleDr{
+  font-size: 32px;
+  font-family: Asap,sans-serif;
+  color: #003152;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.escribirOpinion {
+  color: #00B0B7!important;
+  cursor: pointer;
+  font-size: 1.3rem;
+  margin-left: 0.5rem;
+}
+.text-uppercase{
+  font-size: 28px;
+  font-family: Asap,sans-serif;
+  color: #003152;
+}
+#cedula{
+  font-size: 16px;
+  font-family: Asap,sans-serif;
+  color: #003152;
+}
+.h4{
+  font-size: 1.5rem;
+  color: #003152;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&family=Baloo+2&display=swap');
+.serviciosMedico{
+  font-family: 'Baloo 2', cursive!important;
+}
+.escribirOpinion{
+  font-size: 1.3rem;
+  font-family: Asap,sans-serif;
+  color: #00B0B7;
+}
+#menu img{
+  height: 70px;
+    width: auto;
+}
+
+.optionImageLogo{
+  height: 120px!important;
+  width: auto!important;
+}
+.optionImage{
+  height: 90px!important;
+}
+img{
+  vertical-align: middle;
+  border-style: none;
+}
+.menuBtnOptionText {
+  font-weight: bold;
+  font-size: 1.4rem;
+  font-family: Asap,sans-serif;}
+.headerBlockInfo{
+  background: rgba(0, 49, 82, .75)!important;
+    color: #FFFFFF!important;
+    font-size: 20px;
+    font-family: Asap,sans-serif;
+    margin: 0 -12px 0 -12px;
+    padding: 0.5rem;
+    border-radius: 0;
+    padding-left: 30px;
+}
+.geoIcon {
+  position: absolute;
+  right: 40px;
+  z-index: 1;
+  top: 10px;
+  height: 70px;
+}
+.bkg-data {
+  background: rgba(255, 255, 255, .5);
+  color: #000;
+  font-weight: bold;
+
+}
+
+/* estrellas*/
+#opiones{
+  color: #FFFFFF;
+  font-size: 16px;
+  font-family: Asap,sans-serif;
+  text-decoration: none;
+  float: right;
+}
+.starsBlock {
+  /* background: rgba(255, 255, 255, .60); */
+  background: #003152;
+  display: inline-block;
+}
+#perfil .data-perfil .stars {
+  display: inline-block;
+  font-size: 1.3rem;
+}
+.stars {
+  color: #fdd124;
+  z-index: 11;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#form {
+  width: 250px;
+  margin: 0 auto;
+  height: 50px;
+}
+
+#form p {
+  text-align: center;
+}
+
+#form label {
+  font-size: 20px;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  color: grey;
+}
+
+.clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+label:hover,
+label:hover ~ label {
+  color: orange;
+}
+
+input[type="radio"]:checked ~ label {
+  color: orange;
+}
+
+
+.yellow-line {
+  border: 3px #FFCC00 solid!important;
+}
+
+.yellow-line {
+  border: 3px yellow solid;
+  width: 40px;
+}
+#directorio-info .block-left p {
+  font-size: .8rem;
+}
+#container-head, #directorio-info {
+  background: #EDE9D5;
+  color: #003152;
+}
+.text-fp {
+  background: #2F566C;
+  color: #FFF;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.5rem;
+}
+#directorio-info img.imgFp {
+  width: 55%!important;
+}
+
+.linkFp{
+  text-decoration: none;
+
+}
+#directorio-info b{
+  font-family: 'Asap', sans-serif;
+
+}
+*{
+  text-decoration: none;
+}
+.text-center{
+  text-align: center;
+}
+.text-right{
+  text-align: right;
+}
+#footer {
+  background: #2F566C!important;
+  color: white;
+    padding-top: 0.7rem;
+    font-size: 16px;
+    font-family: Asap,sans-serif;
+}
+
+#footer ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#footer ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0.7rem;
+}
+
+.mb-3 {
+  margin-bottom: 1rem!important;
+}
+.pt-3{
+  padding-top: 1rem!important;
+}
+.btnVolver2 {
+  background: #003152;
+  color: #FFF!important;
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+  top: 5px;
+  font-size: 16px;
+  height: 30px;
+  width: 145.13px;
+  padding: 4px;
+  margin: -2px 0px 8px;
+  font-family: Asap,sans-serif;
+}
+
+.headerBlockInfo, .headerBlockInfo3 {
+  /* background: #f6a288!important; */
+  background: rgba(0, 49, 82, .75)!important;
+  color: #FFFFFF!important;
+  padding-left: 0;
+  margin: 0 -15px 0 -15px;
+  padding: 0.5rem;
+  border-radius: 0;
+  padding-left: 30px;
+
+}
+
+.headerBlockInfo3 {
+  background: #3DBC7F!IMPORTANT;
+  font-size: 20px;
+}
+
+
+.bg-blue-dir {
+  background: #003152;
+  color: #FFF;
+  font-weight: bold;
+}

@@ -1,0 +1,201 @@
+html{
+  background-color: #EEE9D5;
+}
+
+header #logo-dm:first-child{
+  height: 135px;
+}
+.text-center {
+  text-align: center!important;
+}
+header #logo-dm img{
+  height: 30px;
+}
+#logo-dm img{
+ height: 70%!important;
+}
+.nav-directorio {
+  background: #003152!important;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&display=swap');
+#titulo{
+  text-align: center;
+    align-items: center;
+    margin-left: 35px;
+    font-size: 35px;
+    margin-top: 16px;
+    font-family: 'Asap', sans-serif;
+}
+
+#usuario{
+font-size: 15px;
+height: 55px;
+margin-bottom: -5px;
+}
+
+#password{
+  font-size: 15px;
+  height: 55px;
+}
+.modal-content{
+  border-radius: 15px;
+  height: 30pc;
+  width: 26pc;
+}
+.modal-body{
+  background-color: #003152;
+  border-radius: 15px;
+  height: 30pc;
+  width: 26pc;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&display=swap');
+.modal-body h1 {
+  color: white;
+  font-family: 'Asap', sans-serif;
+  font-size: 36px;
+  margin-top: 34px;
+}
+.login{
+  width: 100%;
+
+  text-align: center;
+}
+
+.ancho{
+  width: 80%;
+  text-align: left;
+  margin: 18px;
+  background-color: white;
+  margin: 18px;
+  height: 44px;
+  margin-left: 33px;
+  color: black;
+  border-radius: 9px;
+}
+.ancho2{
+  color: black;
+  width: 80%;
+  text-align: left;
+  background-color: white;
+  margin: 18px;
+  height: 44px;
+  margin-left: 33px;
+  border-radius: 9px;
+}
+.ancho_Boton{
+  width: 65%;
+  border-radius: 25px;
+  background-color: #34CD65;
+  color: white;
+  height: 50px;
+  font-size: 29px;
+  margin-bottom: 15px;
+}
+.ancho_Boton2{
+  width: 65%;
+  border-radius: 25px;
+  color: white;
+  background-color: #EE5170;
+  height: 50px;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+
+.nav-directorio {
+
+    border-bottom: #fff 1px solid;
+    border-top: #fff 1px solid;
+    display: table;
+    width: 100%;
+}
+.nav-directorio a {
+  color: white;
+  font-weight: bold;
+  line-height: 1.2;
+  text-decoration: none;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  position: relative;
+}
+.nav-link {
+  display: block;
+  padding: 0.5em 1em;
+}
+.nav-directorio li {
+  display: table-cell;
+  vertical-align: middle;
+}
+.nav-directorio i {
+  font-size: 14px;
+  left: 80%;
+  position: absolute;
+  top: 36%;
+}
+.nav-directorio a span {
+  font-weight: normal;
+}
+.subMenu {
+  width: 80%;
+  position: absolute;
+  z-index: 99999;
+  background: #2F566C;
+  height: auto;
+  display: none;
+  left: 10%;
+  border: #FFF 1px solid;
+}
+
+@media (min-width: 1200px) {
+  .row{
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+}
+
+
+@media (min-width: 992px){
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+}
+@media (min-width: 768px){
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+}
+
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.row{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#footer {
+  background: #2F566C!important;
+  color: white;
+    padding-top: 0.7rem;
+    font-size: 16px;
+    font-family: Asap,sans-serif;
+}
+
+#footer ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#footer ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0.7rem;
+}

@@ -1,0 +1,260 @@
+#formulario{
+  width: auto;
+}
+
+#adm {
+  background: #616567;
+  color: #FFFFFF;
+  font-size: 32px;
+  width: auto;
+  height: 46px;
+  padding: 6px;
+  background-color: #616567;
+  display: contents;
+}
+#renovacion strong{
+  font-size: 32px;
+  font-family: 'Asap', sans-serif;
+}
+#renovacion p{
+  font-size: 24px;
+}
+#opciones a{
+  text-decoration: none;
+  margin-top: 15px;
+  margin-bottom: -15px;
+  color: #6B6B6B;
+  font-family: 'Asap', sans-serif;
+  text-align: right;
+
+}
+#directorio-info{
+  margin-top: 100px;
+}
+.costo-1{
+  height: 50px;
+  width: 230px;
+  border: aliceblue;
+  border-radius: 9px;
+  font-family: 'Asap', sans-serif;
+  font-size: 14px;
+}
+.costo-2{
+  width: 230px;
+  height: 50px;
+  font-family: 'Asap', sans-serif;
+  border: aliceblue;
+  border-radius: 9px;
+  font-size: 14px;
+}
+.concepto{
+  width: 230px;
+  height: 50px;
+  font-family: 'Asap', sans-serif;
+  border: aliceblue;
+  border-radius: 9px;
+  font-size: 14px;
+}
+.costo{
+  width: 230px;
+  height: 50px;
+  font-family: 'Asap', sans-serif;
+  border: aliceblue;
+  border-radius: 9px;
+  font-size: 14px;
+}
+
+
+
+
+
+.insti{
+  width: 300px;
+  height: 50px;
+  font-family: 'Asap', sans-serif;
+  border: aliceblue;
+  border-radius: 9px;
+  font-size: 14px;
+}
+.insti-2{
+  width: 300px;
+  height: 50px;
+  font-family: 'Asap', sans-serif;
+  border: aliceblue;
+  border-radius: 9px;
+  font-size: 14px;
+}.insti-3{
+  width: 300px;
+  height: 50px;
+  font-family: 'Asap', sans-serif;
+  border: aliceblue;
+  border-radius: 9px;
+  font-size: 14px;
+}
+
+
+#title{
+  background-color: lightslategray;
+  color: white;
+  width: auto;
+  height: auto;
+  margin-left: 1%;
+  margin-bottom: 10px;
+}
+
+#title h1{
+  font-size: 38px;
+  font-family: 'Asap', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&family=Baloo+2&display=swap');
+ .img-perfil{
+  border-radius: 0!important;
+  height: 250px;
+  width: 200px;
+
+}
+
+#titleDr{
+  font-size: 32px;
+  font-family: Asap,sans-serif;
+  color: #003152;
+}
+
+.text-uppercase{
+  font-size: 28px;
+  font-family: Asap,sans-serif;
+  color: #003152;
+}
+#cedula{
+  font-size: 16px;
+  font-family: Asap,sans-serif;
+  color: #003152;
+}
+.h4{
+  font-size: 1.5rem;
+  color: #003152;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&family=Baloo+2&display=swap');
+.serviciosMedico{
+  font-family: 'Baloo 2', cursive!important;
+}
+.escribirOpinion{
+  font-size: 1.3rem;
+  font-family: Asap,sans-serif;
+  color: #00B0B7;
+}
+
+
+#directorio-info .block-left p {
+  font-size: .8rem;
+}
+#container-head, #directorio-info {
+  background: #EDE9D5;
+  color: #003152;
+}
+.text-fp {
+  background: #2F566C;
+  color: #FFF;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.5rem;
+}
+#directorio-info img.imgFp {
+  width: 55%!important;
+}
+
+.linkFp{
+  text-decoration: none;
+
+}
+#directorio-info b{
+  font-family: 'Asap', sans-serif;
+
+}
+
+.text-center{
+  text-align: center;
+}
+.text-right{
+  text-align: right;
+}
+#footer {
+  background: #2F566C!important;
+  color: white;
+    padding-top: 0.7rem;
+    font-size: 16px;
+    font-family: Asap,sans-serif;
+}
+
+#footer ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#footer ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0.7rem;
+}
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  color: grey;
+}
+
+.clasificacion {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+label:hover,
+label:hover ~ label {
+  color: orange;
+}
+
+input[type="radio"]:checked ~ label {
+  color: orange;
+}
+
+
+.yellow-line {
+  border: 3px #FFCC00 solid!important;
+}
+
+.yellow-line {
+  border: 3px yellow solid;
+  width: 40px;
+}
+
+
+
+/* estrellas*/
+#opiones{
+  color: #FFFFFF;
+  font-size: 16px;
+  font-family: Asap,sans-serif;
+  text-decoration: none;
+  float: right;
+}
+.starsBlock {
+  /* background: rgba(255, 255, 255, .60); */
+  background: #003152;
+  display: inline-block;
+}
+#perfil .data-perfil .stars {
+  display: inline-block;
+  font-size: 1.3rem;
+}
+.stars {
+  color: #fdd124;
+  z-index: 11;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
